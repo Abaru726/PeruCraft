@@ -179,3 +179,11 @@
 [09Apr2025 15:46:15.283] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 62654 ms
 [09Apr2025 15:46:15.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (75.732s)! For help, type "help"
 [09Apr2025 15:46:15.290] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Apr2025 18:35:24.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[09Apr2025 18:35:24.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: x<--[HERE]
+[09Apr2025 18:35:26.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[09Apr2025 18:35:26.441] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: x<--[HERE]
+[09Apr2025 18:35:27.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[09Apr2025 18:35:27.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: x<--[HERE]
+[09Apr2025 18:35:29.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[09Apr2025 18:35:29.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: 1<--[HERE]
